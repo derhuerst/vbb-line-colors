@@ -2,9 +2,9 @@
 	"name": "vbb-line-colors",
 	"description": "Colors of VBB lines.",
 	"version": "1.0.0",
-	"main": "index.js",
+	"main": "index.json",
 	"files": [
-		"index.js"
+		"index.json"
 	],
 	"keywords": [
 		"vbb",

@@ -19,7 +19,13 @@ npm install vbb-line-colors
 ## Usage
 
 ```js
-// todo
+const lineColors = require('vbb-line-colors')
+
+console.log(lineColors.subway.U6)
+```
+
+```js
+{fg: '#fff', bg: '#6f4e9c'}
 ```
 
 
