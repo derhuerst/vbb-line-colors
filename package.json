@@ -1,0 +1,31 @@
+{
+	"name": "vbb-line-colors",
+	"description": "Colors of VBB lines.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"vbb",
+		"public transport",
+		"transit",
+		"berlin",
+		"bvg",
+		"colors"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/vbb-line-colors",
+	"repository": "derhuerst/vbb-line-colors",
+	"bugs": "https://github.com/derhuerst/vbb-line-colors/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=6"
+	},
+	"dependencies": {
+	},
+	"scripts": {
+		"test": "env NODE_ENV=dev node test.js",
+		"prepublishOnly": "npm test"
+	}
+}
