@@ -1,6 +1,6 @@
 # vbb-line-colors
 
-**Boilerplate for modules I write.**
+**Colors of VBB lines.**
 
 [![npm version](https://img.shields.io/npm/v/vbb-line-colors.svg)](https://www.npmjs.com/package/vbb-line-colors)
 [![build status](https://api.travis-ci.org/derhuerst/vbb-line-colors.svg?branch=master)](https://travis-ci.org/derhuerst/vbb-line-colors)
@@ -27,6 +27,11 @@ console.log(lineColors.subway.U6)
 ```js
 {fg: '#fff', bg: '#6f4e9c'}
 ```
+
+
+## Related
+
+- [`vbb-line-colour-points`](https://github.com/juliuste/vbb-line-colour-points) – combines this package with OSM line colors.
 
 
 ## Contributing
