@@ -1,7 +1,7 @@
 {
 	"name": "vbb-line-colors",
 	"description": "Colors of VBB lines.",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"main": "index.json",
 	"files": [
 		"index.json"
