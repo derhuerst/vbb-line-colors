@@ -1,7 +1,7 @@
 {
 	"name": "vbb-line-colors",
 	"description": "Colors of VBB lines.",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"main": "index.js",
 	"files": [
 		"index.js",
@@ -16,6 +16,9 @@
 		"colors"
 	],
 	"author": "Jannis R <mail@jannisr.de>",
+	"contributors": [
+		"Daniel Schemp (https://github.com/dschemp)"
+	],
 	"homepage": "https://github.com/derhuerst/vbb-line-colors",
 	"repository": "derhuerst/vbb-line-colors",
 	"bugs": "https://github.com/derhuerst/vbb-line-colors/issues",
